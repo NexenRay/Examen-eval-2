@@ -16,7 +16,8 @@
 }
 
 .flr{
-    right: 50cm;
+    right: inherit;
+    
 }
 
 .fll{
