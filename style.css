@@ -17,3 +17,7 @@
 .flr{
     float: right;
 }
+
+.fll{
+    float: inline-end;
+}
