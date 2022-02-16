@@ -31,3 +31,7 @@
 .spa{
     color: red;
 }
+
+.line{
+    display: inline;
+}
