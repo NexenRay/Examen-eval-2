@@ -1,5 +1,6 @@
 .cent{
     color: cornflowerblue;
+    
 }
 .img{
    width: 200px;
@@ -20,4 +21,12 @@
 
 .fll{
      background-color: aliceblue;
+}
+
+.foot{
+    background-color: yellow;
+}
+
+.spa{
+    color: red;
 }
